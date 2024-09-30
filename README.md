@@ -5,7 +5,9 @@
 
 
 ## Projects
-- [Automation api tests](https://github.com/gmngit/notion_api_testing)
+- [Automation API tests](https://github.com/gmngit/notion_api_testing)
+
+- [Automation UI tests](https://github.com/gmngit/Automation_UI)
 
 ## Tools
 ![Python](https://img.shields.io/badge/Python-0B0A0A?style=for-the-badge&logo=python&logoColor=white)
