@@ -4,12 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2200&pause=650&color=2A9DB0&center=true&vCenter=true&width=780&lines=Finding+bugs+before+they+start+a+group+chat.;Trust+nothing.+Test+everything.;Quality+starts+where+assumptions+end.;Every+fix+deserves+a+second+look." alt="Typing animation" />
 
-<br />
-<br />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=gmngit&label=PROFILE%20SCANS&color=6f1d5f&style=for-the-badge)](https://github.com/gmngit)
-[![Followers](https://img.shields.io/github/followers/gmngit?label=FOLLOWERS&style=for-the-badge&color=2a9db0&labelColor=050816)](https://github.com/gmngit?tab=followers)
-[![Stars](https://img.shields.io/github/stars/gmngit?label=STARS&style=for-the-badge&color=7c5c9e&labelColor=050816)](https://github.com/gmngit?tab=repositories)
 
 </div>
 
