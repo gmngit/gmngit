@@ -1,112 +1,83 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=760&lines=GMNGIT;QA+Engineer;Breaking+bugs+before+they+break+production;Testing+the+edge+cases+humans+forget" alt="Typing SVG" />
+# gmngit
+
+### QA Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=05D9E8&center=true&vCenter=true&width=720&lines=Testing+systems+before+users+have+to;Finding+edge+cases+in+the+dark;Quality+is+a+feature%2C+not+a+phase" alt="Typing SVG" />
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0221,45:261447,75:FF2A6D,100:05D9E8&text=QUALITY%20IN%20THE%20NEON%20ZONE&fontColor=FFFFFF&fontSize=34&fontAlignY=38&animation=fadeIn" alt="Cyberpunk header" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=gmngit&label=PROFILE%20SCANS&color=ff2a6d&style=for-the-badge)](https://github.com/gmngit)
-[![GitHub Followers](https://img.shields.io/github/followers/gmngit?label=FOLLOWERS&style=for-the-badge&color=05d9e8&labelColor=0d0221)](https://github.com/gmngit?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/gmngit?label=STARS&style=for-the-badge&color=f9f002&labelColor=0d0221)](https://github.com/gmngit?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=gmngit&label=profile%20views&color=05d9e8&style=flat-square)](https://github.com/gmngit)
+[![GitHub Followers](https://img.shields.io/github/followers/gmngit?label=followers&style=flat-square&color=ff2a6d&labelColor=111111)](https://github.com/gmngit?tab=followers)
 
 </div>
 
 ---
 
+## About
+
+I am a QA Engineer focused on clarity, reliability, and real-world product quality.
+
+I test features, assumptions, edge cases, and user flows — with a strong focus on reproducibility and meaningful feedback.
+
 ```txt
-╔══════════════════════════════════════════════════════════════╗
-║  SYSTEM BOOT: QA NODE ONLINE                                ║
-║  USER: gmngit                                               ║
-║  ROLE: QA Engineer                                          ║
-║  MISSION: detect defects, stress assumptions, protect users ║
-╚══════════════════════════════════════════════════════════════╝
+QA MODE: ONLINE
+MISSION: find risks before they reach users
+SIGNAL: clear reports, stable regression, sharp observation
 ```
 
-## // About Me
+---
 
-I am a QA Engineer focused on turning uncertainty into confidence.
+## QA Focus
 
-I like clean test strategy, sharp bug reports, reproducible scenarios, and systems that survive real-world usage — not just the happy path.
+- Functional testing
+- Regression testing
+- Exploratory testing
+- API and UI validation
+- Bug reproduction and documentation
+- Risk-based test coverage
+- User-impact analysis
+
+---
+
+## How I Work
 
 ```yaml
-qa_protocol:
-  mindset: "break carefully, verify deeply"
-  focus:
-    - functional testing
-    - regression hunting
-    - exploratory testing
-    - edge-case analysis
-    - product quality
-  values:
-    - clarity
-    - reliability
-    - reproducibility
-    - user impact
+principles:
+  - test what matters first
+  - make bugs easy to reproduce
+  - separate facts from assumptions
+  - think like a user and an attacker
+  - protect critical flows with regression checks
 ```
 
 ---
 
-## // QA Signal
+## Featured Projects
 
-<div align="center">
-
-| Area | Signal |
+| Project | Focus |
 |---|---|
-| Test Design | Scenario thinking, risk-based coverage, edge cases |
-| Bug Reports | Clear steps, expected vs actual, evidence-first format |
-| Regression | Protecting critical paths from silent failure |
-| Exploratory QA | Fast discovery, sharp observation, practical notes |
-| Product Quality | User-focused validation beyond checklists |
+| [Automation API tests](https://github.com/gmngit/notion_api_testing) | API testing, validation, negative scenarios |
+| [Automation UI](https://github.com/gmngit/Automation_UI) | UI automation, user flows, regression checks |
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gmngit&show_icons=true&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=FFFFFF" alt="GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gmngit&hide_border=true&background=0D0221&stroke=05D9E8&ring=FF2A6D&fire=F9F002&currStreakLabel=05D9E8&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA0A6" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## // GitHub Matrix
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gmngit&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=05D9E8&icon_color=FF2A6D&text_color=FFFFFF" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gmngit&theme=radical&hide_border=true&background=0D0221&stroke=05D9E8&ring=FF2A6D&fire=F9F002&currStreakLabel=05D9E8" alt="GitHub streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gmngit&bg_color=0d0221&color=ffffff&line=05d9e8&point=ff2a6d&area=true&hide_border=true" alt="GitHub activity graph" />
-
-</div>
-
----
-
-## // Operating Principles
 
 ```txt
-[01] If it can fail, test how.
-[02] If it failed once, make it reproducible.
-[03] If it is critical, protect it with regression coverage.
-[04] If users depend on it, quality is not optional.
-[05] If the report is unclear, the bug is only half-found.
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:05D9E8,50:0D0221,100:FF2A6D&text=END%20OF%20TRANSMISSION&fontColor=FFFFFF&fontSize=24&animation=twinkling" alt="Footer" />
-
-<br />
-<br />
-
-```txt
-quality.exe is still running...
+quality check complete // still watching the edge cases
 ```
 
 </div>
