@@ -19,8 +19,32 @@
 
 ## 🚀 Featured Repos
 
-[![Automation API tests](https://github-readme-stats.vercel.app/api/pin/?username=gmngit&repo=notion_api_testing&hide_border=true&bg_color=050816&title_color=2A9DB0&icon_color=6F1D5F&text_color=EAF7FF)](https://github.com/gmngit/notion_api_testing)
-[![Automation UI](https://github-readme-stats.vercel.app/api/pin/?username=gmngit&repo=Automation_UI&hide_border=true&bg_color=050816&title_color=2A9DB0&icon_color=6F1D5F&text_color=EAF7FF)](https://github.com/gmngit/Automation_UI)
+<table>
+<tr>
+<td align="center" width="420">
+
+### 🧪 Automation API Tests
+
+API testing, validation, negative scenarios
+
+<a href="https://github.com/gmngit/notion_api_testing">
+  <img src="https://img.shields.io/badge/Open%20Repository-123B4A?style=for-the-badge&logo=github&logoColor=EAF7FF&labelColor=050816" alt="Open Automation API Tests" />
+</a>
+
+</td>
+<td align="center" width="420">
+
+### 🌐 Automation UI
+
+UI automation, user flows, regression checks
+
+<a href="https://github.com/gmngit/Automation_UI">
+  <img src="https://img.shields.io/badge/Open%20Repository-3A0D3D?style=for-the-badge&logo=github&logoColor=EAF7FF&labelColor=050816" alt="Open Automation UI" />
+</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
