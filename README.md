@@ -17,17 +17,10 @@
 
 <div align="center">
 
-## ⚡ QA Signal
+## 🚀 Featured Repos
 
-<table>
-<tr>
-<td align="center">🔍<br><b>Exploratory</b></td>
-<td align="center">🧪<br><b>Functional</b></td>
-<td align="center">🛡️<br><b>Regression</b></td>
-<td align="center">🌐<br><b>API / UI</b></td>
-<td align="center">🐞<br><b>Bug Reports</b></td>
-</tr>
-</table>
+[![Automation API tests](https://github-readme-stats.vercel.app/api/pin/?username=gmngit&repo=notion_api_testing&hide_border=true&bg_color=050816&title_color=2A9DB0&icon_color=6F1D5F&text_color=EAF7FF)](https://github.com/gmngit/notion_api_testing)
+[![Automation UI](https://github-readme-stats.vercel.app/api/pin/?username=gmngit&repo=Automation_UI&hide_border=true&bg_color=050816&title_color=2A9DB0&icon_color=6F1D5F&text_color=EAF7FF)](https://github.com/gmngit/Automation_UI)
 
 </div>
 
