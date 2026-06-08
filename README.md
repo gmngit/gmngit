@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:10142E,70:3A0D3D,100:123B4A&text=GMNGIT&fontColor=EAF7FF&fontSize=58&fontAlignY=38&desc=QA%20Engineer%20%7C%20Bug%20Hunter%20%7C%20Quality%20Guardian&descAlignY=58&descSize=18&animation=fadeIn" alt="Dark neon header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2200&pause=650&color=2A9DB0&center=true&vCenter=true&width=780&lines=Breaking+bugs+before+production;Testing+the+edge+cases+humans+forget;Quality+is+not+optional;Regression+shield%3A+ONLINE" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2200&pause=650&color=2A9DB0&center=true&vCenter=true&width=780&lines=Finding+bugs+before+they+start+a+group+chat.;Trust+nothing.+Test+everything.;Quality+starts+where+assumptions+end.;Every+fix+deserves+a+second+look." alt="Typing animation" />
 
 <br />
 <br />
