@@ -1,106 +1,83 @@
 <div align="center">
 
-# Hi, I'm gmngit
+# gmngit
 
-### QA Engineer | Test Automation | API & UI Testing
+### QA Engineer
 
-I build confidence in software through thoughtful testing, clear bug reports, and reliable automation.
+Clarity. Reproducibility. Reliability.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=gmngit&label=Profile%20views&color=blueviolet&style=for-the-badge)](https://github.com/gmngit)
-[![GitHub Followers](https://img.shields.io/github/followers/gmngit?label=Followers&style=for-the-badge)](https://github.com/gmngit?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=gmngit&label=views&color=111111&style=flat-square)](https://github.com/gmngit)
+[![GitHub Followers](https://img.shields.io/github/followers/gmngit?label=followers&style=flat-square&color=111111)](https://github.com/gmngit?tab=followers)
 
 </div>
 
 ---
 
-## About Me
+## Profile
 
-I am a QA Engineer focused on testing web applications, backend services, APIs, and user-facing flows.
+I am a QA Engineer focused on product quality, reliable testing, and clear communication.
 
-My goal is not only to find bugs, but to make quality visible, reproducible, and easier to improve.
-
-I care about:
-
-- reliable test coverage
-- readable and maintainable test cases
-- clear bug reports
-- critical-path regression protection
-- realistic negative scenarios
-- user-impact based prioritization
+I approach testing as a way to reduce uncertainty: define risks, verify behavior, document issues, and help teams make better release decisions.
 
 ---
 
-## Testing Areas
+## Focus
 
-| Area | What I focus on |
+- Functional testing
+- Regression testing
+- Exploratory testing
+- API testing
+- UI testing
+- Bug reporting
+- Test documentation
+- Quality analysis
+
+---
+
+## Working Principles
+
+| Principle | Meaning |
 |---|---|
-| API Testing | Requests, responses, contracts, status codes, negative cases |
-| UI Testing | Critical user flows, form validation, visual/user behavior checks |
-| Regression Testing | Protecting important functionality from unexpected changes |
-| Functional Testing | Feature behavior, acceptance criteria, business logic |
-| Exploratory Testing | Edge cases, hidden assumptions, unexpected user behavior |
-| Bug Reporting | Clear steps, actual vs expected result, evidence and impact |
+| Clarity | Bugs, risks, and test results should be easy to understand. |
+| Reproducibility | A good report helps anyone reproduce the issue quickly. |
+| Reliability | Critical flows should be tested consistently. |
+| Context | Testing should reflect product risk and user impact. |
+| Simplicity | Good QA work should reduce noise, not create it. |
 
 ---
 
-## Automation Mindset
-
-```txt
-Good automation is not just scripts.
-It is readable checks, stable scenarios, useful failures,
-and fast feedback for the team.
-```
-
-```yaml
-test_automation:
-  priorities:
-    - critical user journeys
-    - repeatable regression checks
-    - API behavior validation
-    - negative scenarios
-    - meaningful assertions
-  quality_gates:
-    - reproducible failures
-    - maintainable test data
-    - clear reporting
-    - stable execution
-```
-
----
-
-## Featured QA Projects
+## Selected Projects
 
 ### [Automation API tests](https://github.com/gmngit/notion_api_testing)
-API automation project focused on validating backend/API behavior, request handling, response correctness, and negative scenarios.
+API testing project focused on backend behavior, response validation, and negative scenarios.
 
 ### [Automation UI](https://github.com/gmngit/Automation_UI)
-UI automation project focused on browser-based user flows, regression checks, and interface behavior validation.
+UI automation project focused on user flows, regression checks, and interface validation.
 
 ---
 
-## GitHub Stats
+## GitHub Overview
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gmngit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gmngit&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gmngit&show_icons=true&hide_border=true&title_color=111111&text_color=333333&icon_color=111111&bg_color=ffffff" alt="GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gmngit&hide_border=true&background=ffffff&stroke=111111&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=333333&currStreakNum=111111&sideNums=111111&dates=666666" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## My QA Principles
+## Quality Statement
 
-- Test the most important risks first.
-- Make every bug easy to reproduce.
-- Prefer clear evidence over vague assumptions.
-- Automate what gives stable and useful feedback.
-- Think about the user, not only the checklist.
+```txt
+I test not only whether software works,
+but whether it behaves reliably under realistic conditions.
+```
 
 ---
 
 <div align="center">
 
-### Quality is not a final step. It is part of the engineering process.
+Reliable software starts with careful questions.
 
 </div>
